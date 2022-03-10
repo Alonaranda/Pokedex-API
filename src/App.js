@@ -1,8 +1,11 @@
+import { Header } from './components/';
+import { Pokedex } from './pages/Pokedex';
 
 function App() {
   return (
     <div>
-      <h1>App</h1>
+      <Header />
+      <Pokedex />
     </div>
   );
 }
