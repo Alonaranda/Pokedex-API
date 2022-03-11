@@ -134,14 +134,6 @@ hr {
     text-shadow: 0em 0em .2em black; 
 }
 
-.card-footer span {
-  text-transform: capitalize;
-  font-size: 25px;
-  margin-bottom: 20px;
-
-}
-
-
 .btn-container {
   display: flex;
   flex-flow: row wrap;
